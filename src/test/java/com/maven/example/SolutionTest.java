@@ -7,11 +7,12 @@ import java.util.Map;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
-
 /**
- * If you uncomment the below commented code, you will find following compile errors: 1. Test annotation class not found
- * 2. minByKey is not found because you need to plug in the class where you implemented the minByKey method The task is
- * to fix all these error and make a green test
+ * If you uncomment the below commented code, you will find following compile errors:
+ * 1. Test annotation class not found
+ * 2. minByKey is not found because you need to plug in the class where you implemented the minByKey method
+ *
+ * The task is to fix all these error and make a green test
  */
 public class SolutionTest {
 
